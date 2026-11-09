@@ -1,0 +1,26 @@
+# 本地软件与系统缓存
+blender/
+NVIDIA Corporation/
+downloads/
+
+# 依赖与构建产物（预览项目可通过 npm install / npm run build 重建）
+**/node_modules/
+**/dist/
+**/.edit3d/*.tgz
+
+# Blender 自动备份与临时文件
+*.blend1
+*.blend2
+*.tmp
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 本地密钥（不上传）
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template

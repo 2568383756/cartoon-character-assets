@@ -1,0 +1,25 @@
+{
+  "byte_length": 3793072,
+  "nodes": 24,
+  "meshes": 1,
+  "skins": [
+    {
+      "joint_count": 22
+    }
+  ],
+  "animations": [
+    {
+      "name": "绑定测试_挥手与步伐",
+      "channels": 66
+    }
+  ],
+  "materials": [
+    "卡通人物 · 主贴图",
+    "卡通人物 · 平整口腔",
+    "卡通人物 · 深藏蓝裤子"
+  ],
+  "images": 1,
+  "extensions_used": [
+    "KHR_materials_specular"
+  ]
+}

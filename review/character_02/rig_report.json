@@ -1,0 +1,97 @@
+{
+  "source": "新 FBX",
+  "vertices": 5183,
+  "polygons": 5631,
+  "connected_components": 39,
+  "bones": [
+    "root",
+    "hips",
+    "spine",
+    "chest",
+    "neck",
+    "head",
+    "upper_arm_L",
+    "forearm_L",
+    "hand_L",
+    "thigh_L",
+    "shin_L",
+    "foot_L",
+    "pigtail_L",
+    "ribbon_tail_L",
+    "upper_arm_R",
+    "forearm_R",
+    "hand_R",
+    "thigh_R",
+    "shin_R",
+    "foot_R",
+    "pigtail_R",
+    "ribbon_tail_R"
+  ],
+  "bone_count": 22,
+  "unweighted_vertices": [],
+  "maximum_influences": 4,
+  "animation": "绑定测试_挥手与步伐",
+  "frame_range": [
+    1,
+    65
+  ],
+  "component_mapping": {
+    "head": [
+      0,
+      4,
+      13,
+      14,
+      15,
+      16,
+      17,
+      22,
+      25,
+      26,
+      35,
+      38
+    ],
+    "pigtails_and_bows": [
+      5,
+      7,
+      9,
+      10,
+      18,
+      19,
+      27,
+      28,
+      29,
+      30
+    ],
+    "ribbon_tails": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "sleeves": [
+      11,
+      12
+    ],
+    "pants": [
+      23,
+      24
+    ],
+    "shoes": [
+      2,
+      3
+    ],
+    "hands": [
+      6,
+      8
+    ],
+    "torso_dress_belt": [
+      1,
+      20,
+      21,
+      36,
+      37
+    ]
+  },
+  "blend": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\红衣卡通女孩_已绑骨.blend",
+  "glb": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\红衣卡通女孩_已绑骨.glb"
+}

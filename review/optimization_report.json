@@ -1,0 +1,58 @@
+{
+  "source_blend": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\卡通人物_已绑骨.blend",
+  "blend": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\卡通人物_已绑骨_优化.blend",
+  "glb": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\卡通人物_已绑骨_优化.glb",
+  "original": {
+    "vertices": 5466,
+    "polygons": 10419,
+    "edges": 15857
+  },
+  "optimized": {
+    "vertices": 5911,
+    "polygons": 11031,
+    "edges": 16915
+  },
+  "lip_loop_original_segments": 26,
+  "lip_loop_optimized_segments": 52,
+  "support_edges_subdivided": 325,
+  "old_oral_interior_vertices_removed": 70,
+  "outer_skin_vertices_flattened": 316,
+  "oral_patch_vertices_rebuilt": 157,
+  "oral_patch_radial_rings": 3,
+  "uv_layers": [
+    "c74950b3_bf94_4494_8366_3222a13380f8_NewUVMap"
+  ],
+  "unweighted_vertices": [],
+  "invalid_weight_sums": [],
+  "bone_count": 22,
+  "action": "绑定测试_挥手与步伐",
+  "pants_vertices_reweighted": 258,
+  "covered_pants_vertices_shrunk": 258,
+  "pants_uniform_material_faces": 484,
+  "pants_material_cleanup": "全部裤片统一为哑光深藏蓝材质，有意简化原裤片贴图，以彻底移除错误 UV 贴图岛造成的红棕色杂色；其他部件贴图与 UV 保留。",
+  "robe_side_vertices_with_limited_thigh_follow": 0,
+  "robe_side_thigh_follow_cap": 0.0,
+  "mouth_face_counts": {
+    "uniform_oral": 208
+  },
+  "mouth_material_cleanup": "口腔内部统一为单一哑光珊瑚色，消除舌头与口腔的锯齿材质边界；主皮肤贴图和 UV 保留。",
+  "oral_bowl_max_depth_m": 0.002,
+  "walk_keys": {
+    "56": {
+      "thigh_L": -0.58,
+      "shin_L": 0.58,
+      "thigh_R": 0.48,
+      "shin_R": -0.3,
+      "upper_arm_L": 0.36,
+      "upper_arm_R": -0.36
+    },
+    "72": {
+      "thigh_L": 0.58,
+      "shin_L": -0.58,
+      "thigh_R": -0.48,
+      "shin_R": 0.3,
+      "upper_arm_L": -0.36,
+      "upper_arm_R": 0.36
+    }
+  }
+}

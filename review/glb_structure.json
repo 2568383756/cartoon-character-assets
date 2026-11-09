@@ -1,0 +1,23 @@
+{
+  "byte_length": 3760208,
+  "nodes": 24,
+  "meshes": 1,
+  "skins": [
+    {
+      "joint_count": 22,
+      "skeleton": null
+    }
+  ],
+  "animations": [
+    {
+      "name": "绑定测试_挥手与步伐",
+      "channels": 66,
+      "samplers": 66
+    }
+  ],
+  "materials": [
+    "卡通人物 · 主贴图"
+  ],
+  "images": 1,
+  "extensions_used": []
+}

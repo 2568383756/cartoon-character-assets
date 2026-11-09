@@ -1,0 +1,25 @@
+{
+  "byte_length": 3550984,
+  "nodes": 24,
+  "meshes": 1,
+  "skins": [
+    {
+      "joint_count": 22
+    }
+  ],
+  "animations": [
+    {
+      "name": "搬运走路_双手前举",
+      "channels": 66
+    },
+    {
+      "name": "绑定测试_挥手与步伐",
+      "channels": 66
+    }
+  ],
+  "materials": [
+    "红衣卡通女孩 · 主贴图"
+  ],
+  "images": 1,
+  "extensions_used": []
+}

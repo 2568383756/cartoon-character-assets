@@ -1,0 +1,41 @@
+{
+  "armature_bones": 22,
+  "mesh_vertices": 10902,
+  "mesh_polygons": 9770,
+  "uv_layers": [
+    "UVMap"
+  ],
+  "unweighted_vertices": [],
+  "actions": [
+    "搬运走路_双手前举",
+    "绑定测试_挥手与步伐"
+  ],
+  "materials": [
+    "红衣卡通女孩 · 主贴图"
+  ],
+  "embedded_texture_size": [
+    4096,
+    4096
+  ],
+  "carry_action_frame_range": [
+    0.8000000715255737,
+    52.0
+  ],
+  "sampled_poses": 17,
+  "unique_leg_poses": 15,
+  "loop_matrix_max_error": 0.0,
+  "hand_travel_from_start": {
+    "left_m": 0.010733343194928694,
+    "right_m": 0.01073334745288438
+  },
+  "support_foot_tail_min_z_range_m": [
+    0.03940461575984955,
+    0.04220011085271835
+  ],
+  "stride_order_start_and_half": [
+    -0.12150348350405693,
+    0.12150347977876663
+  ],
+  "opposite_legs_verified": true,
+  "prop_added": false
+}

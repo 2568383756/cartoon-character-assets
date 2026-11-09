@@ -1,0 +1,62 @@
+{
+  "blender_version": "5.2.3 LTS",
+  "objects": [
+    {
+      "name": "tripo_node_32b70fc4",
+      "type": "MESH",
+      "vertices": 5466,
+      "polygons": 10419,
+      "vertex_groups": [],
+      "uv_layers": [
+        "c74950b3_bf94_4494_8366_3222a13380f8_NewUVMap"
+      ],
+      "materials": [
+        "tripo_mat_32b70fc4"
+      ],
+      "location": [
+        2.9802322387695312e-08,
+        -1.4901161193847656e-08,
+        8.297730857975694e-08
+      ],
+      "rotation_euler": [
+        -4.371138828673793e-08,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "dimensions": [
+        0.68603515625,
+        0.88134765625,
+        0.9995117783546448
+      ]
+    }
+  ],
+  "bounds_min": [
+    -0.3430175483226776,
+    -0.440673828125,
+    6.371484317924114e-08
+  ],
+  "bounds_max": [
+    0.3430176079273224,
+    0.4406738579273224,
+    0.9995118975639343
+  ],
+  "dimensions": [
+    0.68603515625,
+    0.88134765625,
+    0.9995118379592896
+  ],
+  "armatures": [],
+  "images": [
+    "Render Result",
+    "tripo_image_32b70fc4_0",
+    "Viewer Node"
+  ],
+  "packed_images": [
+    "tripo_image_32b70fc4_0"
+  ]
+}

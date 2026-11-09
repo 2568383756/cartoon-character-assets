@@ -1,0 +1,42 @@
+{
+  "armature_bones": 22,
+  "bone_names": [
+    "root",
+    "hips",
+    "spine",
+    "chest",
+    "neck",
+    "head",
+    "ribbon_L",
+    "ribbon_R",
+    "ribbon_tail_L",
+    "ribbon_tail_R",
+    "upper_arm_L",
+    "forearm_L",
+    "hand_L",
+    "upper_arm_R",
+    "forearm_R",
+    "hand_R",
+    "thigh_L",
+    "shin_L",
+    "foot_L",
+    "thigh_R",
+    "shin_R",
+    "foot_R"
+  ],
+  "mesh_vertices": 10941,
+  "mesh_polygons": 10499,
+  "actions": [
+    "绑定测试_挥手与步伐"
+  ],
+  "materials": [
+    "Material",
+    "卡通人物 · 主贴图",
+    "检查用地面材质"
+  ],
+  "posed_bone_head": [
+    0.28946441411972046,
+    -0.040000006556510925,
+    0.3420986533164978
+  ]
+}

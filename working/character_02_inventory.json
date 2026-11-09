@@ -1,0 +1,27 @@
+{
+  "archive": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\working\\character_02_source.zip",
+  "members": [
+    {
+      "name": "tripo_convert_69800d4e-d7f7-4292-93ed-7c168cbf15c4.fbx",
+      "size": 336956,
+      "compressed_size": 317781,
+      "is_directory": false
+    },
+    {
+      "name": "tripo_convert_69800d4e-d7f7-4292-93ed-7c168cbf15c4.fbm/tripo_rgb_5b1017f6-6f83-4960-9ae3-c3ed536c30ab.jpg",
+      "size": 2859077,
+      "compressed_size": 2859623,
+      "is_directory": false
+    }
+  ],
+  "files": [
+    {
+      "path": "tripo_convert_69800d4e-d7f7-4292-93ed-7c168cbf15c4.fbm\\tripo_rgb_5b1017f6-6f83-4960-9ae3-c3ed536c30ab.jpg",
+      "size": 2859077
+    },
+    {
+      "path": "tripo_convert_69800d4e-d7f7-4292-93ed-7c168cbf15c4.fbx",
+      "size": 336956
+    }
+  ]
+}

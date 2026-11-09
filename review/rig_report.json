@@ -1,0 +1,40 @@
+{
+  "source": "FBX",
+  "vertices": 5466,
+  "polygons": 10419,
+  "connected_components": 23,
+  "bones": [
+    "root",
+    "hips",
+    "spine",
+    "chest",
+    "neck",
+    "head",
+    "upper_arm_L",
+    "forearm_L",
+    "hand_L",
+    "thigh_L",
+    "shin_L",
+    "foot_L",
+    "ribbon_L",
+    "ribbon_tail_L",
+    "upper_arm_R",
+    "forearm_R",
+    "hand_R",
+    "thigh_R",
+    "shin_R",
+    "foot_R",
+    "ribbon_R",
+    "ribbon_tail_R"
+  ],
+  "bone_count": 22,
+  "unweighted_vertices": [],
+  "maximum_influences": 4,
+  "animation": "绑定测试_挥手与步伐",
+  "frame_range": [
+    1,
+    96
+  ],
+  "blend": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\卡通人物_已绑骨.blend",
+  "glb": "E:\\KimiData\\kimi\\tasks\\2026-11-07\\16-16-56-5e24d110\\deliverables\\卡通人物_已绑骨.glb"
+}

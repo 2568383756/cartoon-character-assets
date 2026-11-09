@@ -1,0 +1,34 @@
+{
+  "armature_bones": 22,
+  "mesh_vertices": 11405,
+  "mesh_polygons": 11287,
+  "uv_layers": [
+    "UVMap"
+  ],
+  "unweighted_vertices": [],
+  "actions": [
+    "搬运走路_双手前举",
+    "绑定测试_挥手与步伐"
+  ],
+  "materials": [
+    "卡通人物 · 主贴图",
+    "卡通人物 · 平整口腔",
+    "卡通人物 · 深藏蓝裤子"
+  ],
+  "carry_action_frame_range": [
+    0.8000000715255737,
+    52.0
+  ],
+  "sampled_poses": 17,
+  "unique_leg_poses": 15,
+  "loop_matrix_max_error": 0.0,
+  "hand_travel_from_start": {
+    "left_m": 0.010806397968011168,
+    "right_m": 0.01080639512752257
+  },
+  "support_foot_tail_min_z_range_m": [
+    0.03610476106405258,
+    0.04116325452923775
+  ],
+  "prop_added": false
+}
